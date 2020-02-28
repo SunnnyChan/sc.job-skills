@@ -1,4 +1,3 @@
-# sc.working
 
 # How Thinking
 # How Reading
